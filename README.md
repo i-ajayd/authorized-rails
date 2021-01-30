@@ -1,5 +1,8 @@
 # README
 Project Name: authorized
+Simple spin off of Rails 6 with authorization for both web and api setup using Devise and Devise Token Auth
+
+config changed => devise-token-auth header change in each request is disabled
 
 * Ruby version
   -v 2.7.1
